@@ -1,0 +1,13 @@
+{
+    "name": "skywest/footsies",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hilkiah Makemo",
+            "email": "hilkiah.makemo@skywest.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
