@@ -9,5 +9,10 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "code/"
+        ]
+    }
 }
